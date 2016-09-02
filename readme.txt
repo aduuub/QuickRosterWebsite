@@ -1,5 +1,6 @@
 
-This website is the home page of my Android Application, QuickRoster. In future versions it will be intergrated with the same  database that android app is connected to, to offer a web version.
+This website is the home page of my Android Application, QuickRoster. In future versions it will be intergrated
+with the same database that the android app is connected to, in order to offer a web version of QuickRoster.
 
 -----------------------------------------------
 SOURCES AND CREDITS:
